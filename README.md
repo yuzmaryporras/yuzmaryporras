@@ -31,8 +31,8 @@ I am a computer engineer who is passionate about learning.
 
 <div style="display:flex">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yuzmaryporras&show_icons=true&theme=transparent&hide_border=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuzmaryporras&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yuzmaryporras&show_icons=true&theme=transparent&hide_border=false&v=1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuzmaryporras&layout=compact&v=1)
 
 	
 </a>
