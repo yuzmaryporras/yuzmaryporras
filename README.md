@@ -8,7 +8,7 @@
 I am a computer engineer who is passionate about learning.
 
 - 🔭 I’m currently working on Falabella Bank as a developer FullStack
-- 🌱 I’m currently learning Nest and Flutter
+- 🌱 I’m currently learning Nest
 - 😄 I’m looking to collaborate on your open source projects
 - 💬 Ask me about JS, CSS, HTML
 - ⚡ Fun fact: I love trekking!
